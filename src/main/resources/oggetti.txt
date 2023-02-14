@@ -1,0 +1,7 @@
+nome oggetto	disponibilita	prezzo
+
+aspirapolvere1	1	2.36
+aspirapolvere2	1	5.36
+frigorifero1	1	8.12
+ferro da stiro	1	1.15
+borraccia	0	2.52
